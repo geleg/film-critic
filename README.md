@@ -10,7 +10,7 @@ Ready to dive into the world of movie reviews? Follow these steps to get started
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/film-critic.git
+   git clone https://github.com/geleg/film-critic.git
    ```
 
 2. **Install Dependencies for Frontend:**
